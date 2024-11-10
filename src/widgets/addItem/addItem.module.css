@@ -1,0 +1,7 @@
+.addButton {
+    cursor: pointer
+}
+
+.addButton:hover {
+      color: rgb(131, 99, 80)
+}
